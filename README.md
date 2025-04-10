@@ -21,3 +21,7 @@ bash <(curl -s https://raw.githubusercontent.com/gadafi7/TUPAC-Hacker-Toolkit/ma
 
 ## ⚠️ Legal
 For educational purposes only.
+NOTE: the requirements are:requests
+     colorama
+     phonenumbers
+     folium
